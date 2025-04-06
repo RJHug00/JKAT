@@ -1,0 +1,29 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<gpx version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+<metadata><name>Abol</name>
+ <desc>Mt. Katahdin to Abol Ranger station campground and parking</desc>
+ <author><name>Randy H</name></author>
+ <bounds maxlat="45.9045" maxlon="-68.9214" minlat="45.8736" minlon="-68.9639"/>
+</metadata>
+<wpt lat="45.904440" lon="-68.921510"><name>Katahdin</name><sym>Information</sym></wpt>
+<wpt lat="45.873670" lon="-68.963880"><name>Katahdin Ranger Stn @ Abol</name><sym>Parking Area</sym></wpt>
+<trk><name>AT_Seg</name><type>trail_running</type><trkseg>
+<trkpt lat="45.90444" lon="-68.92151"><ele>1600</ele></trkpt>
+<trkpt lat="45.90387" lon="-68.92568"><ele>1554</ele></trkpt>
+<trkpt lat="45.89939" lon="-68.92976"><ele>1443</ele></trkpt>
+<trkpt lat="45.89856" lon="-68.93190"><ele>1435</ele></trkpt>
+<trkpt lat="45.89824" lon="-68.93660"><ele>1407</ele></trkpt>
+<trkpt lat="45.89492" lon="-68.93983"><ele>1251</ele></trkpt>
+<trkpt lat="45.89476" lon="-68.94167"><ele>1200</ele></trkpt>
+<trkpt lat="45.89229" lon="-68.94453"><ele>1005</ele></trkpt>
+<trkpt lat="45.89071" lon="-68.94457"><ele>947</ele></trkpt>
+<trkpt lat="45.89093" lon="-68.94636"><ele>903</ele></trkpt>
+<trkpt lat="45.88979" lon="-68.94600"><ele>871</ele></trkpt>
+<trkpt lat="45.88734" lon="-68.94247"><ele>777</ele></trkpt>
+<trkpt lat="45.88488" lon="-68.94444"><ele>682</ele></trkpt>
+<trkpt lat="45.88307" lon="-68.95008"><ele>585</ele></trkpt>
+<trkpt lat="45.88110" lon="-68.95102"><ele>542</ele></trkpt>
+<trkpt lat="45.87974" lon="-68.95352"><ele>503</ele></trkpt>
+<trkpt lat="45.87717" lon="-68.95595"><ele>466</ele></trkpt>
+<trkpt lat="45.87367" lon="-68.96388"><ele>397</ele></trkpt>
+</trkseg></trk></gpx>
