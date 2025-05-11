@@ -1,0 +1,37 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<gpx version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+<metadata>
+ <bounds maxlat="45.90445" maxlon="-68.921501" minlat="34.626714" minlon="-84.1987905"/>
+ <modified>7-May-2025 11:30 RJH</modified>
+</metadata>
+<wpt lat="34.626714" lon="-84.193862"><name>Springer Mountain (Mile 0)</name></wpt>
+<wpt lat="34.992183" lon="-83.599841"><name>NC / TN Section (78)</name></wpt>
+<wpt lat="35.452510" lon="-83.808046"><name>Great Smoky Mountains (168)</name></wpt>
+<wpt lat="35.563413" lon="-83.498437"><name>Kuwohi - Highest Point on the A.T. (200)</name></wpt>
+<wpt lat="35.889671" lon="-82.832674"><name>Hot Springs, NC (275)</name></wpt>
+<wpt lat="36.106795" lon="-82.110532"><name>Roan Highlands (375)</name></wpt>
+<wpt lat="36.614631" lon="-81.824949"><name>Virginia (467)</name></wpt>
+<wpt lat="36.639856" lon="-81.648541"><name>Grayson Highlands (500)</name></wpt>
+<wpt lat="37.245342" lon="-80.848855"><name>One Million Meters (1000 km)</name></wpt>
+<wpt lat="37.392485" lon="-80.036653"><name>McAfee Knob (713)</name></wpt>
+<wpt lat="38.032002" lon="-78.858667"><name>Shenandoah National Park (864)</name></wpt>
+<wpt lat="39.087407" lon="-77.893749"><name>Half the Total Climb</name></wpt>
+<wpt lat="39.140144" lon="-77.840332"><name>West Virginia (1009)</name></wpt>
+<wpt lat="39.323518" lon="-77.728787"><name>Maryland (1027)</name></wpt>
+<wpt lat="39.719883" lon="-77.507596"><name>Pennsylvania (1067)</name></wpt>
+<wpt lat="39.992714" lon="-77.412641"><name>Official AT Midpoint (1096)</name></wpt>
+<wpt lat="40.686446" lon="-75.859693"><name>Two Million Meters (2000 km)</name></wpt>
+<wpt lat="40.977919" lon="-75.135977"><name>New Jersey (1296)</name></wpt>
+<wpt lat="41.191663" lon="-74.344056"><name>New York (1368)</name></wpt>
+<wpt lat="41.302147" lon="-74.023088"><name>Bear Mtn State Park (1400)</name></wpt>
+<wpt lat="41.641414" lon="-73.519834"><name>Connecticut (1458)</name></wpt>
+<wpt lat="42.050146" lon="-73.454649"><name>Massachusetts (1508)</name></wpt>
+<wpt lat="42.743819" lon="-73.155535"><name>Vermont (1604)</name></wpt>
+<wpt lat="43.674766" lon="-72.839273"><name>Maine Junction (Long Trail) (1704)</name></wpt>
+<wpt lat="43.703869" lon="-72.300481"><name>New Hampshire (1755)</name></wpt>
+<wpt lat="43.991201" lon="-71.900921"><name>The White Mountains (1798)</name></wpt>
+<wpt lat="44.325938" lon="-71.288428"><name>Three Million Meters (3000 km)</name></wpt>
+<wpt lat="44.485036" lon="-71.021514"><name>Maine (1909)</name></wpt>
+<wpt lat="45.331106" lon="-69.535510"><name>100-Mile Wilderness (2078)</name></wpt>
+<wpt lat="45.904450" lon="-68.921501"><name>Mount Katahdin (2198)</name></wpt>
+</gpx>
