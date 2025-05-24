@@ -1,0 +1,104 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<gpx version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+<wpt lat="35.000070" lon="-84.403290"><name>The Cabins at Copperhill</name><sym>Car</sym><cmt>RWN:2</cmt></wpt>
+<wpt lat="35.953990" lon="-83.686750"><name>Kodak-TN</name><sym>Car</sym><cmt>RWN:2</cmt></wpt>
+<wpt lat="36.160700" lon="-82.097129"><name>Roan Mountain State Park</name><sym>Car</sym><cmt>RWN:2</cmt></wpt>
+<wpt lat="36.494200" lon="-82.482680"><name>Kingsport-TN</name><sym>Car</sym><cmt>RWN:2</cmt></wpt>
+<wpt lat="36.634950" lon="-81.786780"><name>Damascus-VA</name><sym>Car</sym><cmt>RWN:2</cmt></wpt>
+<wpt lat="36.736450" lon="-80.402320"><name>Meadows Of Dan-VA</name><sym>Car</sym><cmt>RAN-OPEN:6 fast</cmt></wpt>
+<wpt lat="37.251749" lon="-79.954449"><name>Roanoke-VA</name><sym>Car</sym><cmt>RAN-OPEN:6 fast</cmt></wpt>
+<wpt lat="38.067718" lon="-78.930598"><name>Waynesboro-VA</name><sym>Car</sym><cmt>RAN-OPEN:6 fast</cmt></wpt>
+<wpt lat="38.291636" lon="-77.508638"><name>Fredericksburg-VA</name><sym>Car</sym><cmt>RAN-OPEN:6 fast</cmt></wpt>
+<wpt lat="38.963606" lon="-78.189376"><name>Front Royal-VA</name><sym>Car</sym><cmt>RAN-OPEN:6 fast</cmt></wpt>
+<wpt lat="39.626261" lon="-77.770299"><name>Hagerstown-MD</name><sym>Car</sym><cmt>RAN:6 fast</cmt></wpt>
+<wpt lat="39.999618" lon="-78.233715"><name>Breezewood-PA</name><sym>Car</sym><cmt>RAN-OPEN:6 fast</cmt></wpt>
+<wpt lat="41.062489" lon="-75.484588"><name>Long Pond-PA</name><sym>Car</sym><cmt>RWN:2</cmt></wpt>
+<wpt lat="41.506849" lon="-74.013042"><name>Newburgh-NY</name><sym>Car</sym><cmt>RAN:6 fast</cmt></wpt>
+<wpt lat="41.726164" lon="-72.756591"><name>West Hartford-CT</name><sym>Car</sym><cmt>RAN-OPEN:6 fast</cmt></wpt>
+<wpt lat="42.173791" lon="-72.640671"><name>Holyoke-MA</name><sym>Car</sym><cmt>RAN:9 fast</cmt></wpt>
+<wpt lat="42.836684" lon="-72.564984"><name>Brattleboro-VT</name><sym>Car</sym><cmt>RAN:6 fast</cmt></wpt>
+<wpt lat="43.328641" lon="-73.682090"><name>Queensbury-NY</name><sym>Car</sym><cmt>RAN-OPEN:10 fast</cmt></wpt>
+<wpt lat="43.632648" lon="-72.317359"><name>West Lebanon-NH</name><sym>Car</sym><cmt>RAN:6 fast</cmt></wpt>
+<wpt lat="43.859080" lon="-70.104675"><name>Freeport-ME</name><sym>Car</sym><cmt>RAN:6 fast</cmt></wpt>
+<wpt lat="34.118729" lon="-84.528502"><name></name><sym>Gas Station</sym><cmt>{"v3":12}</cmt></wpt>
+<wpt lat="34.216749" lon="-83.862837"><name></name><sym>Gas Station</sym><cmt>{"v3":12}</cmt></wpt>
+<wpt lat="34.249840" lon="-83.459397"><name></name><sym>Gas Station</sym><cmt>{"v3":12}</cmt></wpt>
+<wpt lat="34.316069" lon="-83.797249"><name></name><sym>Gas Station</sym><cmt>{"v3":16,"accessible":1}</cmt></wpt>
+<wpt lat="34.377883" lon="-84.915729"><name></name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="34.440386" lon="-84.915320"><name>Buc-ee's</name><sym>Gas Station</sym><cmt>{"v3":12}</cmt></wpt>
+<wpt lat="35.806348" lon="-83.572721"><name></name><sym>Gas Station</sym><cmt>{"v3":12}</cmt></wpt>
+<wpt lat="35.981638" lon="-83.605600"><name>Buc-ee's</name><sym>Gas Station</sym><cmt>{"v3":24,"accessible":2}</cmt></wpt>
+<wpt lat="36.601910" lon="-82.191436"><name>Royal Farms</name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="36.628538" lon="-82.148888"><name>Sheetz</name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="36.864550" lon="-81.433527"><name>Comfort Inn</name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="37.272499" lon="-80.037292"><name>Sheetz</name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="37.299379" lon="-79.894214"><name>Sheetz</name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="37.324860" lon="-79.190523"><name>Sheetz</name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="37.364002" lon="-81.052394"><name></name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="37.466222" lon="-79.117738"><name>Sheetz</name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="37.778564" lon="-79.434062"><name>Sheetz</name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="37.798282" lon="-79.418211"><name>Tru by Hilton/Chik-fil-A</name><sym>Gas Station</sym><cmt>{"v3":12,"accessible":1}</cmt></wpt>
+<wpt lat="37.930083" lon="-79.234611"><name>Comfort Inn & Suites</name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="38.038621" lon="-79.026271"><name>Sheetz</name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="38.132266" lon="-78.434391"><name>Wawa</name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="38.346640" lon="-78.286103"><name>Sheetz</name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="38.429826" lon="-78.856029"><name>Sheetz</name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="38.866754" lon="-78.519200"><name>Sheetz</name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="39.008355" lon="-77.501839"><name>Harris Teeter</name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="39.102943" lon="-77.525479"><name>Sheetz</name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="39.188140" lon="-78.125788"><name>Sheetz</name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="39.327271" lon="-77.346520"><name>Royal Farms</name><sym>Gas Station</sym><cmt>{"v3":8,"accessible":0,"trailerFriendly":0}</cmt></wpt>
+<wpt lat="39.386700" lon="-77.407700"><name>Sheetz</name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="39.392566" lon="-77.438609"><name>Wawa</name><sym>Gas Station</sym><cmt>{"v3":12}</cmt></wpt>
+<wpt lat="39.442679" lon="-77.986587"><name></name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="39.608895" lon="-77.750802"><name>Sheetz</name><sym>Gas Station</sym><cmt>{"v3":8,"trailerFriendly":0}</cmt></wpt>
+<wpt lat="39.844127" lon="-77.199050"><name>Sheetz</name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="40.117113" lon="-77.036769"><name></name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="40.152059" lon="-77.611778"><name></name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="40.194428" lon="-76.992163"><name>Sheetz</name><sym>Gas Station</sym><cmt>{"v3":8,"accessible":1}</cmt></wpt>
+<wpt lat="40.301734" lon="-75.853085"><name></name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="40.564621" lon="-76.007412"><name></name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="40.571630" lon="-75.616759"><name>Wawa</name><sym>Gas Station</sym><cmt>{"v3":12,"accessible":0,"trailerFriendly":0}</cmt></wpt>
+<wpt lat="40.582825" lon="-77.369497"><name></name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="40.633853" lon="-74.937703"><name>Clinton Station Diner</name><sym>Gas Station</sym><cmt>{"v3":12,"accessible":1}</cmt></wpt>
+<wpt lat="40.739349" lon="-75.263529"><name></name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="40.897189" lon="-74.097451"><name></name><sym>Gas Station</sym><cmt>{"v3":8,"accessible":1}</cmt></wpt>
+<wpt lat="40.904785" lon="-74.822803"><name>The Mall at Panther Valley</name><sym>Gas Station</sym><cmt>{"v3":12,"accessible":1}</cmt></wpt>
+<wpt lat="40.907703" lon="-74.030779"><name></name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="40.933846" lon="-75.100997"><name></name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="40.934360" lon="-74.068608"><name></name><sym>Gas Station</sym><cmt>{"v3":20}</cmt></wpt>
+<wpt lat="40.955391" lon="-74.074670"><name></name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="41.001772" lon="-75.273151"><name>Shoppes at Crossroads</name><sym>Gas Station</sym><cmt>{"v3":8,"accessible":0,"trailerFriendly":0}</cmt></wpt>
+<wpt lat="41.008153" lon="-74.293688"><name></name><sym>Gas Station</sym><cmt>{"v3":12}</cmt></wpt>
+<wpt lat="41.041750" lon="-74.073701"><name></name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="41.044821" lon="-73.954058"><name></name><sym>Gas Station</sym><cmt>{"v3":12,"accessible":1}</cmt></wpt>
+<wpt lat="41.090122" lon="-74.155284"><name></name><sym>Gas Station</sym><cmt>{"v3":8,"accessible":1}</cmt></wpt>
+<wpt lat="41.092297" lon="-75.591828"><name>Wawa</name><sym>Gas Station</sym><cmt>{"v3":12,"accessible":1,"trailerFriendly":0}</cmt></wpt>
+<wpt lat="41.119410" lon="-74.712960"><name></name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="41.119941" lon="-75.376404"><name>Wawa</name><sym>Gas Station</sym><cmt>{"v3":8,"accessible":1}</cmt></wpt>
+<wpt lat="41.313222" lon="-74.125034"><name></name><sym>Gas Station</sym><cmt>{"v3":12}</cmt></wpt>
+<wpt lat="41.353461" lon="-74.723940"><name>Wendy's</name><sym>Gas Station</sym><cmt>{"v3":16,"accessible":1}</cmt></wpt>
+<wpt lat="41.391690" lon="-73.595175"><name>Dunkin'</name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="41.527279" lon="-73.893152"><name></name><sym>Gas Station</sym><cmt>{"v3":12}</cmt></wpt>
+<wpt lat="41.538744" lon="-73.421791"><name></name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="41.668480" lon="-73.794120"><name>Tops Friendly Market</name><sym>Gas Station</sym><cmt>{"v3":12,"accessible":1}</cmt></wpt>
+<wpt lat="41.743731" lon="-74.070122"><name></name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="42.024331" lon="-73.322684"><name></name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="42.180663" lon="-73.364632"><name></name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="42.377028" lon="-73.277352"><name></name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="42.883445" lon="-73.196599"><name></name><sym>Gas Station</sym><cmt>{"v3":12}</cmt></wpt>
+<wpt lat="43.289094" lon="-71.579011"><name></name><sym>Gas Station</sym><cmt>{"v3":12}</cmt></wpt>
+<wpt lat="43.455263" lon="-71.564612"><name></name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="43.617562" lon="-72.957208"><name></name><sym>Gas Station</sym><cmt>{"v3":6}</cmt></wpt>
+<wpt lat="43.698101" lon="-71.640119"><name></name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="43.734299" lon="-70.293547"><name></name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="43.841630" lon="-70.441768"><name></name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="43.870733" lon="-71.652514"><name>Owl's Nest Resort</name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="44.020271" lon="-71.113742"><name></name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="44.042781" lon="-71.667392"><name></name><sym>Gas Station</sym><cmt>{"v2":6,"v3":4}</cmt></wpt>
+<wpt lat="44.172775" lon="-73.240854"><name>Shaw's Supermarket</name><sym>Gas Station</sym><cmt>{"v3":12}</cmt></wpt>
+<wpt lat="44.460841" lon="-72.014819"><name></name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="44.569032" lon="-69.639469"><name></name><sym>Gas Station</sym><cmt>{"v3":12}</cmt></wpt>
+<wpt lat="44.650370" lon="-70.150196"><name></name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+<wpt lat="44.824800" lon="-68.779208"><name></name><sym>Gas Station</sym><cmt>{"v3":8}</cmt></wpt>
+</gpx>
